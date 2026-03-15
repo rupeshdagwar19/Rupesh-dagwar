@@ -1,0 +1,8 @@
+{
+  "name": "RDAGRO",
+  "description": "AI-powered smart farming assistant for crop disease detection, treatment advice, and weather-based tips in regional languages.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
